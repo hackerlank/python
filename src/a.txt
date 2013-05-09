@@ -1,0 +1,349 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>身份证号码和真实姓名大全查询</title>
+<link  type="text/css" rel="stylesheet" href="/style/domain.css" />
+</head><body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0">
+<table width="100%" border="0" cellspacing="1" cellpadding="1">
+  <tr>
+    <td bgcolor="#F5F5F5">
+      <div align="right"><a href="http://www.293.net/">首页</a>
+<a href="http://whois.293.net">whois查询</a>
+<a href="http://beian.293.net">备案查询</a>
+<a href="http://shenfenzheng.293.net">身份证查询</a>
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td height="1" bgcolor="#CCCCCC"></td>
+  </tr>  
+</table>
+<table width="1000" border="0" cellspacing="1" cellpadding="1" align="center">
+    <tr> 
+      <td colspan="2"> 
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="200"><a href="/"><img src="http://www.293.net/images/logo.gif" border="0" alt="网站价值查询"></a> 
+      </td>
+      <td width="702"> 
+	  <form method="POST" action="" id="forma">
+        <table width="100%" border="0" cellspacing="1" cellpadding="1">
+          <tr> 
+            <td width="15%">输入身份证号: </td>
+            <td width="85%"> 
+              <input type="text" name="id" size="50" value="" class="query" id="id">
+              <input type="submit" class="submit" value="身份证查询"  name="submits">
+              <br>
+            </td>
+          </tr>
+          <tr> 
+            <td width="15%">&nbsp;</td>
+            <td width="85%"> 身份证号码查询系统,支持15位或18位身份证号码查询 </td>
+          </tr>
+        </table>
+		</form>
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="2" height="30"> 
+        <div align="center"> 
+          <script language='JavaScript' type='text/javascript' src='/js/i.js'></script>
+        </div>
+      </td>
+    </tr>
+</table>
+<table width="1000" border="0" cellspacing="1" cellpadding="0" align="center">
+  <tr> 
+    <td width="700"> 
+      <table width="100%" border="0" cellspacing="3" cellpadding="4" bgcolor="#F0F0F0">
+        <tr> 
+          <td width="70%" valign="top"> 
+            <div id="show_div" style="display:none;margin:10px 0 10px 0;border:#CCCCCC 3px solid;height:100px;background-color:#FFFFFF;"> 
+              <div style="padding-top:44px;color:Red;font-size:14px;text-align:center;">正在查询，请稍后......</div>
+            </div>
+            <table width="100%" border="0" cellspacing="3" cellpadding="4" bgcolor="#CCCCCC" height="80" id="show_table">
+              <tr> 
+                <td bgcolor="#FFFFFF">
+                                    <div align="center">&#12288;&#12288;<p><font size="2">请输入身份证号码进行查询</font></p></div>
+                                </tr>
+            </table>
+          </td>
+        </tr>
+        <tr> 
+          <td bgcolor="#F0F0F0">公民身份证号码按照 GB11643—1999《公民身份证号码》国家标准编制，由18位数字组成：前6位为行政区划分代码，第7位至14位为出生日期码，第15位至17位为顺序码，第18位为校验码。<br>
+            在上世纪（二十世纪）办的身份证为15位数字码。原来7、8位的年份号到2000年后攺为全称，如1985年过去7、8位码是85，现在增改为1985，而又在最后一位增加校验码，如后三位原来601，加一个5成为6015。身份证一经编定不作改变，派出所会在户口资料中给你加上，你要换新证时就是18位的新码了。</td>
+        </tr>
+        <tr>
+          <td bgcolor="#F0F0F0">
+<table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td><a href="http://shenfenzheng.293.net/">身份证号码和姓名大全</a> </td>
+                <td><!-- Baidu Button BEGIN -->
+    <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+        <a class="bds_qzone"></a>
+        <a class="bds_tsina"></a>
+        <a class="bds_tqq"></a>
+        <a class="bds_renren"></a>
+        <span class="bds_more">更多</span>
+		<a class="shareCount"></a>
+    </div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=234763" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script>
+<!-- Baidu Button END -->
+                </td><td><a href="javascript:ChangeReload();" title="如果长时间未显示图片，请刷新页面" target="_self" class="cc">重新换一批</a></td>
+              </tr>
+            </table>
+            <table width="100%" border="0" cellspacing="1" cellpadding="3" bgcolor="#999999">
+              <tr bgcolor="#EAEAEA"> 
+                <td>姓名和身份证号码</td>
+                <td>性别</td>
+                <td>年龄</td>
+                <td>所属地区</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>喻海蓝 231223198005168386</td>
+                <td>女</td>
+                <td>33</td>
+                <td>黑龙江省  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>郎柯朱 610830198106057833</td>
+                <td>男</td>
+                <td>32</td>
+                <td>陕西省  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>赵一 350123196707199111</td>
+                <td>男</td>
+                <td>46</td>
+                <td>福建省 福州市 罗源县</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>郑初柳 150929197604084580</td>
+                <td>女</td>
+                <td>37</td>
+                <td>内蒙古自治区  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>倪冬卉 640502199003241986</td>
+                <td>女</td>
+                <td>23</td>
+                <td>宁夏回族自治区  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>车程文 231202196406073272</td>
+                <td>男</td>
+                <td>49</td>
+                <td>黑龙江省  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>赵圣熙 310113197607096654</td>
+                <td>男</td>
+                <td>37</td>
+                <td>上海市 市辖区 宝山区</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>利秋珊 32108119740606668X</td>
+                <td>女</td>
+                <td>39</td>
+                <td>江苏省 扬州市 仪征市</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>乌冰 53052319760423595X</td>
+                <td>男</td>
+                <td>37</td>
+                <td>云南省  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>顾傲云 420600198001024715</td>
+                <td>男</td>
+                <td>33</td>
+                <td>湖北省 襄樊市 襄樊市</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>凤镇国 140623197208160477</td>
+                <td>男</td>
+                <td>41</td>
+                <td>山西省 朔州市 右玉县</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>聂谷槐 520102198503014807</td>
+                <td>女</td>
+                <td>28</td>
+                <td>贵州省 贵阳市 南明区</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>东孤阳 411328196405277823</td>
+                <td>女</td>
+                <td>49</td>
+                <td>河南省 南阳市 唐河县</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>溥晓蕾 532922197610118909</td>
+                <td>女</td>
+                <td>37</td>
+                <td>云南省 大理白族自治州 漾濞彝族自治县</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>刁文博 360200196310088790</td>
+                <td>男</td>
+                <td>50</td>
+                <td>江西省 景德镇市 景德镇市</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>于科捷 532530196204270861</td>
+                <td>女</td>
+                <td>51</td>
+                <td>云南省 红河哈尼族彝族自治州 金平苗族瑶族傣族自治县</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>卜代卉 420501197207237085</td>
+                <td>女</td>
+                <td>41</td>
+                <td>湖北省 宜昌市 市辖区</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>汪昊 654200198911099120</td>
+                <td>女</td>
+                <td>24</td>
+                <td>新疆维吾尔自治区 塔城地区 塔城地区</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>钱良万 450100198808123990</td>
+                <td>男</td>
+                <td>25</td>
+                <td>广西壮族自治区 南宁市 南宁市</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>宣好宇 130733197906038459</td>
+                <td>男</td>
+                <td>34</td>
+                <td>河北省 张家口市 崇礼县</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>费宏 210404198211156412</td>
+                <td>男</td>
+                <td>31</td>
+                <td>辽宁省 抚顺市 望花区</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>顾志杰 150623198610102431</td>
+                <td>男</td>
+                <td>27</td>
+                <td>内蒙古自治区  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>巩翠曼 371624197302029141</td>
+                <td>女</td>
+                <td>40</td>
+                <td>山东省  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>白碧白 411602196912315946</td>
+                <td>女</td>
+                <td>44</td>
+                <td>河南省  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>廉和堂 150626196310047856</td>
+                <td>男</td>
+                <td>50</td>
+                <td>内蒙古自治区  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>屠敏 440113198705059471</td>
+                <td>男</td>
+                <td>26</td>
+                <td>广东省 广州市 </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>顾依霜 141181197611251026</td>
+                <td>女</td>
+                <td>37</td>
+                <td>山西省  </td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>阚幼荷 431102196107190323</td>
+                <td>女</td>
+                <td>52</td>
+                <td>湖南省 永州市 芝山区</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>家骑琥 510722198011137030</td>
+                <td>男</td>
+                <td>33</td>
+                <td>四川省 绵阳市 三台县</td>
+              </tr>
+                            <tr bgcolor="#FFFFFF"> 
+                <td>范广斌 513424197810273674</td>
+                <td>男</td>
+                <td>35</td>
+                <td>四川省 凉山彝族自治州 德昌县</td>
+              </tr>
+                          </table>
+          以上的身份证号码所属年龄均为18岁以上，均已通过校验；身份证号码和姓名仅供测试或用在必须输入身份证号码和姓名的网站上，避免泄漏个人隐私资料（以上身份证号码和姓名中并非真实姓名），请不要将身份证号码和姓名用于任何非法用途，且自行承担使用本工具的任何后果和责任。<br>
+          </td>
+        </tr>
+      </table>
+          
+    </td>
+          <td valign="top">
+            <table width="100%" border="0" cellspacing="3" cellpadding="4" bgcolor="#CCCCCC">
+              <tr> 
+                <td bgcolor="#FFFFFF">
+                                <script type="text/javascript">/*300*250，创建于2012-3-14*/ var cpro_id = 'u807146';</script>
+              <script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+                </td>
+              </tr>
+              <tr> 
+                <td bgcolor="#FFFFFF">
+                  <script language='JavaScript' type='text/javascript' src='/js/3.js'></script>
+                </td>
+              </tr>
+            </table>
+          
+      <table width="100%" border="0" cellspacing="3" cellpadding="4" bgcolor="#CCCCCC">
+        <tr> 
+          <td bgcolor="#FFFFFF"> 
+            <div id="alexapic">
+              <script language='JavaScript' type='text/javascript' src='/js/s.js'></script>
+            </div>
+          </td>
+        </tr>
+        <tr> 
+          <td bgcolor="#FFFFFF"> 
+            <script language='JavaScript' type='text/javascript' src='/js/4.js'></script>
+          </td>
+        </tr>
+      </table>
+    </td>
+        </tr>
+      </table>
+    <table width="1000" border="0" cellspacing="1" cellpadding="1" align="center">
+  <tr> 
+    <td>
+      <div align="center">
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td height="1" bgcolor="#CCCCCC"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="center"><a href="http://shenfenzheng.293.net">身份证号码</a> 身份证大全 
+        <a href="http://shenfenzheng.293.net">身份证查询</a> 身份证号码大全 <br>
+        Copyright &copy; 2012 <a href="http://www.293.net/mianze.html">免责声明</a> <a href="http://whois.293.net/">whois查询工具</a> 
+        <a href="http://www.293.net">网站价值查询</a> <script src='http://w.cnzz.com/c.php?id=30036567' language='JavaScript' charset='gb2312'></script>
+		<script src='/js/p.js' language='JavaScript'></script>
+      </div>
+      </td>
+  </tr>
+</table>
+</body>
+</html>
