@@ -3,6 +3,7 @@
 
 import httplib2 
 import time
+#carry out
 
 #chmap������ת�����ַ�
 chmap = {  
