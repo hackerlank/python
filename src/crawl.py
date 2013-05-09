@@ -1,5 +1,6 @@
 'Fetech Web Program'
 #coding=GBK
+#test for pc
 
 import httplib2 
 import time
