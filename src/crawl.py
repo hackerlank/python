@@ -4,7 +4,7 @@
 import httplib2 
 import time
 
-#chmap½«Êý×Ö×ª»»³É×Ö·û
+#chmapï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×ªï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½
 chmap = {  
     '0':0,'1':1,'2':2,'3':3,'4':4,'5':5,'6':6,'7':7,'8':8,'9':9,  
     'x':10,'X':10  
@@ -13,7 +13,7 @@ chmap = {
 def ch_to_num(ch):  
     return chmap[ch]      
   
-#ÑéÖ¤ÊÇ·ñÎªÉí·ÝÖ¤ID
+#ï¿½ï¿½Ö¤ï¿½Ç·ï¿½Îªï¿½ï¿½ï¿½ï¿½Ö¤ID
 def judge_id(s):  
     #print s
     if (len(s) != 18):
@@ -36,9 +36,11 @@ def judge_card(s):
         return True
     else:
         return False
+
+#test for fun
     
 
-#»ñÈ¡ÎÄ¼þfileÖÐµÄËùÓÐurl£¬Ò»ÐÐÒ»¸öurl
+#ï¿½ï¿½È¡ï¿½Ä¼ï¿½fileï¿½Ðµï¿½ï¿½ï¿½ï¿½ï¿½urlï¿½ï¿½Ò»ï¿½ï¿½Ò»ï¿½ï¿½url
 def get_url_list(file):
     try:
         f = open(file,'r')
@@ -48,7 +50,7 @@ def get_url_list(file):
         print e
     return url_list
     
-#»ñÈ¡urlµÄÄÚÈÝ£¬ÒÔdepth²ÎÊý¿ØÖÆÉî¶È  
+#ï¿½ï¿½È¡urlï¿½ï¿½ï¿½ï¿½ï¿½Ý£ï¿½ï¿½ï¿½depthï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  
 def get_url_content(url, depth):
     new_url = "http://" + url
     print("deal url ", new_url)
@@ -60,17 +62,17 @@ def get_url_content(url, depth):
         content = ""
     return content
       
-#´¦ÀíurlÄÚÈÝ£¬ÅÐ¶ÏÊÇ·ñÎªÉí·ÝÖ¤»òÒøÐÐ¿¨ºÅ
+#ï¿½ï¿½ï¿½ï¿½urlï¿½ï¿½ï¿½Ý£ï¿½ï¿½Ð¶ï¿½ï¿½Ç·ï¿½Îªï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½ï¿½ï¿½ï¿½Ð¿ï¿½ï¿½ï¿½
 def deal_url(url):
     s = get_url_content(url, 0)
     #save_to_file("a.txt", s)
-    #×Ö·û´®ÓÎ±ê
+    #ï¿½Ö·ï¿½ï¿½ï¿½ï¿½Î±ï¿½
     index = 0
-    #´¦Àí²½³¤
+    #ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     step = 1
     while (index < len(s)):
         num = ""
-        #³éÈ¡Ò³ÃæÖÐµÄÊý×Ö
+        #ï¿½ï¿½È¡Ò³ï¿½ï¿½ï¿½Ðµï¿½ï¿½ï¿½ï¿½ï¿½
         if(s[index].isdigit() == True):
             while(s[index].isdigit()):
                 num += s[index]
@@ -84,7 +86,7 @@ def deal_url(url):
             print("bankcard", num, index, url)
             
 
-#mainº¯Êý   
+#mainï¿½ï¿½ï¿½ï¿½   
 url_list = get_url_list("url.txt")
 for url in url_list:
 # print url
